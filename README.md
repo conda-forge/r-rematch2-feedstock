@@ -1,11 +1,11 @@
-About r-rematch2
-================
+About r-rematch2-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rematch2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/rematch2#readme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rematch2-feedstock/blob/main/LICENSE.txt)
 
 Summary: Wrappers on 'regexpr' and 'gregexpr' to return the match results in tidy data frames.
 
